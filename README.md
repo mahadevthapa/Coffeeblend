@@ -24,6 +24,7 @@ CoffeeBlend is a web-based Coffee Shop Management System built using Laravel. It
    Import the provided SQL file into the database.
 
 4. **Install Dependencies**
+    ```bash
     composer install
 
 5. **Run Laravel Server**  
